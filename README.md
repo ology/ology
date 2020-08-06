@@ -1,6 +1,6 @@
 I am a recording musician and software engineer.
 
-- 🌱 I’m currently reading "Data Science from Scratch"
+- 🌱 I’m currently reading ["Data Science from Scratch"](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 - 🤔 I’m looking for help with my perl translation of ["Data Science from Scratch"](https://github.com/ology/Data-Science-FromScratch)
 - 💡 My on-line journal is https://techn.ology.net/
 - 📖 My CPAN contributions are at https://metacpan.org/author/GENE
