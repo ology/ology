@@ -6,7 +6,7 @@ I am a recording musician and software engineer.
 
 💡 My on-line journal is https://techn.ology.net/
 
-📖 My CPAN contributions are at https://metacpan.org/author/GENE
+📝 My CPAN contributions are at https://metacpan.org/author/GENE
 
 🎶 https://soundcloud.com/gene-boggs-music/tracks (latest)
 
