@@ -4,7 +4,7 @@ I am a recording musician and software engineer.
 
 🤔 And I’m looking for help with [my perl translation](https://github.com/ology/Data-Science-FromScratch) of sections of that book.
 
-💡 My on-line journal is https://techn.ology.net/
+💡 My on-line journal is https://techn.ology.net/ but soon to be https://ology.github.io/
 
 📝 My CPAN contributions are at https://metacpan.org/author/GENE
 
