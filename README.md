@@ -1,4 +1,4 @@
-I am a recording musician and software engineer!
+I record music and engineer software!
 
 💡 My on-line journal is https://ology.github.io/
 
