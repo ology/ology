@@ -4,6 +4,10 @@ I record music and engineer software!
 
 ⚙️ My CPAN contributions are at https://metacpan.org/author/GENE
 
+🙌 Find me at https://fosstodon.org/@ology
+
+Musical things:
+
 🎶 https://soundcloud.com/gene-boggs-music/tracks (latest music)
 
 🎵 https://www.youtube.com/channel/UCHTS8kJCGNo_4d5x6POCTVw (last releases)
