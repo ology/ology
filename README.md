@@ -10,9 +10,9 @@ Musical things:
 
 🌟 https://ology.net/XI/ is my new album! Check it out!
 
-🎶 https://soundcloud.com/gene-boggs-music/tracks (in-progress music)
+🎵 https://www.youtube.com/channel/UCHTS8kJCGNo_4d5x6POCTVw (latest releases)
 
-🎵 https://www.youtube.com/channel/UCHTS8kJCGNo_4d5x6POCTVw (last releases)
+🎶 https://soundcloud.com/gene-boggs-music/tracks (in-progress music)
 
 🐣 https://www.youtube.com/channel/UCDSfKNRIy1bs3k-pyHrEuag (first release)
 
