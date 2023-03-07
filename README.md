@@ -8,7 +8,9 @@ I record music and engineer software!
 
 Musical things:
 
-🎶 https://soundcloud.com/gene-boggs-music/tracks (latest music)
+🌟 https://ology.net/XI/ is my new album! Check it out!
+
+🎶 https://soundcloud.com/gene-boggs-music/tracks (in-progress music)
 
 🎵 https://www.youtube.com/channel/UCHTS8kJCGNo_4d5x6POCTVw (last releases)
 
