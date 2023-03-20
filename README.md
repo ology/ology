@@ -16,6 +16,8 @@ Musical things:
 
 🐣 https://www.youtube.com/channel/UCDSfKNRIy1bs3k-pyHrEuag (first release)
 
+----
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=ology&count_private=true&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=ology&type=png)
