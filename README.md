@@ -10,13 +10,13 @@ Musical things:
 
 🌟 https://ology.net/XI/ is my fresh new album! Check it out!
 
-🗜️ https://github.com/ology/MIDI-Perl-HOWTO/wiki (creating algorithmic music)
+🎶 https://soundcloud.com/gene-boggs-music/tracks (in-progress music)
 
 🎵 https://www.youtube.com/channel/UCHTS8kJCGNo_4d5x6POCTVw (latest releases)
 
-🎶 https://soundcloud.com/gene-boggs-music/tracks (in-progress music)
-
 🐣 https://www.youtube.com/channel/UCDSfKNRIy1bs3k-pyHrEuag (first release)
+
+🗜️ https://github.com/ology/MIDI-Perl-HOWTO/wiki (creating algorithmic music)
 
 ----
 
