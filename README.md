@@ -20,8 +20,8 @@ Musical things:
 
 ----
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ology&count_private=true&show_icons=true)
-
 ![Streak](https://streak-stats.demolab.com/?user=ology&type=png)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ology&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ology)](https://github.com/ology/)
