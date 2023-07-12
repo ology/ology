@@ -1,6 +1,6 @@
 I record music and engineer software!
 
-THE TPRC SLIDES ARE AT: https://ology.github.io/Perl-Algorithmic-Music/ <-------
+---> MY TPRC SLIDES ARE AT: https://ology.github.io/Perl-Algorithmic-Music/ <---
 
 💡 My on-line journal is https://ology.github.io/
 
