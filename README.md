@@ -8,13 +8,13 @@ I record music and engineer software!
 
 Musical things:
 
-🎵 [My streaming music](https://songwhip.com/geneboggs) - Check it out!
+🎵 My [streaming music](https://songwhip.com/geneboggs) - Check it out!
 
-🎶 https://soundcloud.com/gene-boggs-music/tracks (freshly made, new music)
+🎶 https://soundcloud.com/gene-boggs-music/tracks - Freshly made, new music
 
-🐣 https://www.youtube.com/channel/UCDSfKNRIy1bs3k-pyHrEuag (first release)
+🐣 https://www.youtube.com/channel/UCDSfKNRIy1bs3k-pyHrEuag - My first release
 
-🗜️ https://github.com/ology/MIDI-Perl-HOWTO/wiki (creating algorithmic music)
+🗜️ https://github.com/ology/MIDI-Perl-HOWTO/wiki - Creating algorithmic music
 
 ----
 
