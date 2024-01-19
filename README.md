@@ -4,7 +4,7 @@ I record music and engineer software!
 
 ⚙️ My CPAN contributions are at https://metacpan.org/author/GENE
 
-🙌 Find me at @ology@fosstodon.org & @ology@musician.social
+🙌 Find me at https://fosstodon.org/@ology & https://musician.social/@ology
 
 Musical things:
 
