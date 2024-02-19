@@ -8,7 +8,7 @@ I record music and engineer software!
 
 Musical things:
 
-🎵 My latest [streaming music](https://songwhip.com/geneboggs) (and my [first 2 releases](https://songwhip.com/peoplebeforetime)_ - Check 'em out!
+🎵 My latest [streaming music](https://songwhip.com/geneboggs) and my [first 2 releases](https://songwhip.com/peoplebeforetime) - Check 'em out!
 
 🎶 https://soundcloud.com/gene-boggs-music/tracks - Freshly made, new music
 
