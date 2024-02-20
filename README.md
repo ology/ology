@@ -10,7 +10,7 @@ Musical things:
 
 🎵 My latest [streaming music](https://songwhip.com/geneboggs) and my [first 2 releases](https://songwhip.com/peoplebeforetime) - Check 'em out!
 
-🎶 https://soundcloud.com/gene-boggs-music/tracks - Freshly made, new music
+🎶 https://soundcloud.com/gene-boggs-music/tracks - Freshly made tracks
 
 🐣 https://www.youtube.com/channel/UCDSfKNRIy1bs3k-pyHrEuag - My first release
 
