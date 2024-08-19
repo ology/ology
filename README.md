@@ -12,8 +12,6 @@ Musical things:
 
 🎶 https://soundcloud.com/gene-boggs-music/tracks - Freshly made tracks
 
-🐣 https://www.youtube.com/channel/UCDSfKNRIy1bs3k-pyHrEuag - My first release
-
 🗜️ https://github.com/ology/MIDI-Perl-HOWTO/wiki - Creating algorithmic music
 
 ----
