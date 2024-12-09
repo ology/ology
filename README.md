@@ -2,9 +2,9 @@ I record music and engineer software!
 
 💡 My on-line journal is https://ology.github.io/
 
-⚙️ My Perl opensource code is at https://metacpan.org/author/GENE
+⚙️ My Perl open source code is at https://metacpan.org/author/GENE
 
-⚙️ My Python opensource code is at https://pypi.org/user/ology/
+⚙️ My Python open source code is at https://pypi.org/user/ology/
 
 🙌 Find me at https://fosstodon.org/@ology & https://musician.social/@ology
 
