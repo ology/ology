@@ -12,9 +12,9 @@ Musical things:
 
 🎵 My latest [streaming music](https://songwhip.com/geneboggs) and my [first 2 releases](https://songwhip.com/peoplebeforetime) - Check 'em out!
 
-🎶 https://soundcloud.com/gene-boggs-music/tracks - Freshly made tracks
+🎶 My freshly made tracks: [Bandcamp](https://geneboggs.bandcamp.com/) & [Soundcloud](https://soundcloud.com/gene-boggs-music/tracks) (old)
 
-🗜️ https://github.com/ology/MIDI-Perl-HOWTO/wiki - Creating algorithmic music
+🗜️ Creating algorithmic music: https://github.com/ology/MIDI-Perl-HOWTO/wiki
 
 ----
 
