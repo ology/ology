@@ -2,8 +2,6 @@ I record music and engineer software!
 
 🕸️ My personal website is https://www.ology.net/
 
-💡 My on-line journal is https://ology.github.io/
-
 ⚙️ My Perl open source code is at https://metacpan.org/author/GENE
 
 ⚙️ My Python open source code is at https://pypi.org/user/ology/
