@@ -14,8 +14,6 @@ Musical things:
 
 🎶 My freshly made tracks: [Bandcamp](https://geneboggs.bandcamp.com/) & [Soundcloud](https://soundcloud.com/gene-boggs-music/tracks) (old)
 
-🗜️ Creating algorithmic music: https://github.com/ology/MIDI-Perl-HOWTO/wiki
-
 ----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ology&layout=compact)](https://github.com/ology/)
