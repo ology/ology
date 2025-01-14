@@ -13,9 +13,3 @@ Musical things:
 🎵 My latest [streaming music](https://songwhip.com/geneboggs) and my [first 2 releases](https://songwhip.com/peoplebeforetime) - Check 'em out!
 
 🎶 My freshly made tracks: [Bandcamp](https://geneboggs.bandcamp.com/) & [Soundcloud](https://soundcloud.com/gene-boggs-music/tracks) (old)
-
-----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ology&layout=compact)](https://github.com/ology/)
-
-![Streak](https://streak-stats.demolab.com/?user=ology&type=png)
