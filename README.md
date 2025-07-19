@@ -8,6 +8,6 @@ I record music and engineer software!
 
 🙌 Find me at https://fosstodon.org/@ology & https://musician.social/@ology
 
-🎵 My latest [streaming music](https://www.youtube.com/@GeneBoggs) and my [first 2 releases](https://songwhip.com/peoplebeforetime) - Check 'em out!
+🎵 My [streaming music](https://www.youtube.com/@GeneBoggs) and my [first 2 releases](https://songwhip.com/peoplebeforetime) - Check 'em out!
 
 🎶 My freshly made tracks: [Bandcamp](https://geneboggs.bandcamp.com/)
